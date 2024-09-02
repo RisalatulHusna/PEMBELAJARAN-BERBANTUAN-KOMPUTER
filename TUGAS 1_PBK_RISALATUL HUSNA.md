@@ -14,7 +14,7 @@
 
 <p align = "justify">iE ULM adalah platform LMS yang dikembangkan oleh Universitas Lambung Mangkurat untuk mendukung proses pembelajaran daring. Platform ini bertujuan untuk menyediakan solusi pembelajaran yang terpadu, yang memungkinkan mahasiswa dan dosen untuk berinteraksi secara efektif melalui berbagai fitur digital.</p>
 
-<p align="center"><img src="IMG/1.PNG"></p>
+<p align="center"><img src="IMG/1.png"></p>
 <p align="center">Gambar 1 Halaman Dashboard iE ULM</p>
 
 
