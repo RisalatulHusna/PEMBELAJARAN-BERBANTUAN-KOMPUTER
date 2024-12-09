@@ -15,7 +15,7 @@ MATA KULIAH : PEMBELAJARAN BERBANTUAN KOMPUTER
 ### Penjelasan Tentang H5P
 
 **Apa Itu H5P?**  
-<p align="center"><img src="IMG/2.PNG"></p>
+<p align="center"><img src="IMG/2.png"></p>
 <p align="center">Gambar 1 Halaman Dashboard H5P</p>
 
 H5P adalah platform berbasis web yang memungkinkan pengguna membuat, berbagi, dan menggunakan konten interaktif dengan mudah. Nama H5P merupakan singkatan dari "HTML5 Package," yang menandakan penggunaan teknologi HTML5 untuk mendukung konten interaktif tanpa memerlukan plug-in tambahan. Aplikasi ini dapat diintegrasikan dengan berbagai Learning Management System (LMS) seperti Moodle, WordPress, dan Drupal. H5P digunakan secara luas untuk pembelajaran online, pelatihan, dan berbagai kebutuhan edukasi lainnya. H5P dapat diakses di link berikut : https://h5p.com/
@@ -60,7 +60,7 @@ Untuk menggunakan H5P, pengguna hanya perlu mendaftar akun di situs resmi atau m
 ---
 
 ### **Fitur-Fitur di H5P**
-<p align="center"><img src="IMG/3.PNG"></p>
+<p align="center"><img src="IMG/3.png"></p>
 <p align="center">Gambar 1 Halaman Dashboard H5P</p>
 
 1. **Interactive Video**: Menambahkan kuis, tautan, atau elemen interaktif ke dalam video.  
