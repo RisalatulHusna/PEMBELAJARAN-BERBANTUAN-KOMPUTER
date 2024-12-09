@@ -61,7 +61,7 @@ Untuk menggunakan H5P, pengguna hanya perlu mendaftar akun di situs resmi atau m
 
 ### **Fitur-Fitur di H5P**
 <p align="center"><img src="IMG/3.png"></p>
-<p align="center">Gambar 1 Halaman Dashboard H5P</p>
+<p align="center">Gambar 2 Fitur-Fitur di H5P</p>
 
 1. **Interactive Video**: Menambahkan kuis, tautan, atau elemen interaktif ke dalam video.  
 2. **Course Presentation**: Membuat presentasi interaktif yang mendukung media seperti video, teks, dan gambar.  
